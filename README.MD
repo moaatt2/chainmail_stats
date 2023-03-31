@@ -16,18 +16,11 @@ Looking at [M.A.I.L.'s robots.txt](https://www.mailleartisans.org/robots.txt) pr
     * What tags are the most popular?
     * How many new weaves came out over time? 
 2. Determine what information to get from the pages to answer those questions.
-    * The name of each weave.
-    * The aspect ratios for the weaves.
+    - [x] The name of each weave.
+    - [x] The aspect ratios for the weaves.
     * The number of articles submitted about the weave.
     * The tags for each weave.
     * The upload/edit dates for each weave.
 3. Find a set of articles to use as a test case and build scraping of desired data.
 4. Get the desired data for all articles.
 5. Use the gathered data to answer the questions.
-
-Testing
-
-1. heading
-    - [x] task a
-    - [] task b
-    * task b
