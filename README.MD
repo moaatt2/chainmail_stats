@@ -30,3 +30,4 @@ Testing
 1. heading
     - [x] task a
     - [] task b
+    * task b
