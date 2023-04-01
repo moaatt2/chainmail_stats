@@ -18,7 +18,7 @@ Looking at [M.A.I.L.'s robots.txt](https://www.mailleartisans.org/robots.txt) pr
 2. Determine what information to get from the pages to answer those questions.
     - [x] The name of each weave.
     - [x] The aspect ratios for the weaves.
-    * The number of articles submitted about the weave.
+    - [x] The number of articles submitted about the weave.
     * The tags for each weave.
     - [x] The upload/edit dates for each weave.
 3. Find a set of articles to use as a test case and build scraping of desired data.
