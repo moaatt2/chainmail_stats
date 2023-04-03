@@ -19,7 +19,7 @@ Looking at [M.A.I.L.'s robots.txt](https://www.mailleartisans.org/robots.txt) pr
     - [x] The name of each weave.
     - [x] The aspect ratios for the weaves.
     - [x] The number of articles submitted about the weave.
-    * The tags for each weave.
+    - [x] The tags for each weave.
     - [x] The upload/edit dates for each weave.
 3. Find a set of articles to use as a test case and build scraping of desired data.
 4. Get the desired data for all articles.
