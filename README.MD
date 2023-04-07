@@ -24,3 +24,7 @@ Looking at [M.A.I.L.'s robots.txt](https://www.mailleartisans.org/robots.txt) pr
 3. Find a set of articles to use as a test case and build scraping of desired data.
 4. Get the desired data for all articles.
 5. Use the gathered data to answer the questions.
+
+## Future Improvements
+
+* Improve parsing of web-scraping to avoid improper strings in Min AR values.
