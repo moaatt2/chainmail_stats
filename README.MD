@@ -41,7 +41,7 @@ The only aspect ratios used in more than 100 different weaves are $4$, $5$ and $
 
 There are 32 unique tags with the three most popular being *Variant*, *European* and *Chain* which all can be found on more than 10% of all tags each.
 
-<img src='graphs/most-popular-tags.png' height=1000, width=1000>
+<img src='graphs/most-popular-tags.png'>
 
 ### **How Many Weaves Came Out Over Time**
 
